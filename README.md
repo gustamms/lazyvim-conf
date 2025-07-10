@@ -2,15 +2,10 @@
 Hmmm, para não precisar ficar fazendo do zero a configuraca do lazyvim, com LPS e afins, criei esse repo suuuper básico para configurar pra mim :)
 
 ## Passos (caso eu esquecer, com toda certeza vou esquecer)
-``` bash
 1. Instalar o vim
 
 ``` bash
 brew install vim
-``` 
-```
-```
-````
 ```
 
 2. Instalar lazyvim
