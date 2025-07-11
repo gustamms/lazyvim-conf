@@ -19,6 +19,10 @@ return {
         git = {
           enable = true,
         },
+        filters = {
+          dotfiles = false, -- <--- Mostra arquivos ocultos (.env, .gitignore, etc)
+          custom = {},
+        },
       })
 
       -- Atalho para abrir o NvimTree
